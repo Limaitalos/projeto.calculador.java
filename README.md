@@ -62,6 +62,6 @@ O código está estruturado em um único arquivo `Calculadora.java`, contendo:
 
 ## Licença
 
-Este projeto é de uso livre e sob orientação de Matheus battisti(Hora de Codar) para fins educacionais e pessoais. 😊
+Este projeto é de uso livre e sob orientação de Matheus Battisti(Hora de Codar) para fins educacionais e pessoais. 😊
 
 # projeto.calculador.java
